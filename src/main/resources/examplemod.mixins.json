@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.example.examplemod.mixin",
+  "refmap": "examplemod.refmap.json",
+  "mixins": [
+    "MapItemMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

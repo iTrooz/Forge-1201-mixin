@@ -1,0 +1,4 @@
+{
+  "refmap": "examplemod.refmap.json",
+  "package": "com.example.examplemod.mixin"
+}
